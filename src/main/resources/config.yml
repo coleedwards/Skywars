@@ -1,0 +1,210 @@
+scoreboard:
+  title: "&4&lCavePvP &7- &cSkywars"
+  starting:
+  - "&7&m------------------"
+  - "&4Game start in %seconds%s"
+  - " "
+  - "&7Players: &f%online% / %max%"
+  - "&7Gamemode: &f%gamemode%"
+  - " "
+  - "&4www.cavepvp.com &7(Solo)"
+  - "&7&m------------------"
+  playing:
+  - "&7&m------------------"
+  - "&4Next Event"
+  - "&c%time% &7(%event%)"
+  - " "
+  - "&7Players Alive: &f%alive%"
+  - "&7Kills: &f%kills%"
+  - "&7Map: &f%map%"
+  - "&7Gamemode: &f%gamemode%"
+  - " "
+  - "&4www.cavepvp.com &7(Solo)"
+  - "&7&m------------------"
+  ending:
+  - "&7&m------------------"
+  - "&4Winner: &c%player%"
+  - "&4Server Shutdown: &f%time%"
+  - "&7&m------------------"
+items:
+  NORMAL:
+    '''0''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''1''':
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      amount: 64
+    '''2''':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE
+      amount: 64
+    '''3''':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENDER_PEARL
+      amount: 16
+    '''4''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+    '''5''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+    '''6''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+    '''7''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+    '''8''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+    '''9''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''10''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''11''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''12''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''13''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''14''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''15''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+  UHC:
+    '''0''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''1''':
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      amount: 64
+    '''2''':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE
+      amount: 64
+    '''3''':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENDER_PEARL
+      amount: 16
+    '''4''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+    '''5''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+    '''6''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+    '''7''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+    '''8''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+    '''9''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''10''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''11''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''12''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''13''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''14''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''15''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+  POTPVP:
+    '''0''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''1''':
+      ==: org.bukkit.inventory.ItemStack
+      type: LOG
+      amount: 64
+    '''2''':
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE
+      amount: 64
+    '''3''':
+      ==: org.bukkit.inventory.ItemStack
+      type: ENDER_PEARL
+      amount: 16
+    '''4''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_SWORD
+    '''5''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_BOOTS
+    '''6''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_LEGGINGS
+    '''7''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_CHESTPLATE
+    '''8''':
+      ==: org.bukkit.inventory.ItemStack
+      type: DIAMOND_HELMET
+    '''9''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''10''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''11''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''12''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''13''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''14''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+    '''15''':
+      ==: org.bukkit.inventory.ItemStack
+      type: POTION
+      damage: 16421
+gamemode: UHC

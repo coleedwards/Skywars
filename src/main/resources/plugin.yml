@@ -1,0 +1,10 @@
+name: Skywars
+authors: ["Cole Edwards", "BlazingTide"]
+depend: [WorldEdit]
+main: com.cavepvp.skywars.Skywars
+version: ${project.version}
+commands:
+  vote:
+  setminplayers:
+  setitems:
+  arena:
